@@ -93,10 +93,6 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
       "name": "金鹰资源"
     },
-    "gszy": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "name": "光速资源"
-    },
     "gszy1": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "光速资源1"
